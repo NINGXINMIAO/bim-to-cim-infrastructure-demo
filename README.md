@@ -44,10 +44,6 @@ Pipeline status: end-to-end smoke test on a 2-element sample model, to verify th
 ### Point Cloud Visualization
 ![Point Cloud Visualization](assets/pointcloud_visualization.png)
 
-### Model Performance
-- Test Accuracy: **100.0 %**
-- Number of element categories: **2**
-- Total elements processed: **2**
 
 ### GeoJSON Output (Optional)
 - Exported geographic features: **2**
