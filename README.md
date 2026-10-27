@@ -39,6 +39,7 @@ This work is prepared as a technical demonstration for research orientation in *
 ---
 
 ## Results
+Pipeline status: end-to-end smoke test on a 2-element sample model, to verify that the chain runs. Metrics from this sample are not meaningful as a classifier evaluation; the next step is expanding to a full bridge model (hundreds of elements) before reporting accuracy.
 
 ### Point Cloud Visualization
 ![Point Cloud Visualization](assets/pointcloud_visualization.png)
